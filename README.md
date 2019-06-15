@@ -1,2 +1,2 @@
 # rainbow_song
-This a Rainbow song.
+This a Rainbow song written in C major.
